@@ -1,8 +1,12 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tomato food delivery app (React JS, MongoDB, Express, Node JS & Stripe) 
 
-Currently, two official plugins are available:
+• Create a full stack web application that allows users to order food and then track their food delivery process using MERN stack.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+• Using Figma for sketching and React framework tools (JSX, props, Hooks. Virtual Dom…) to craft a responsive and visually
+appealing website.
+
+• integrate the Stripe payment gateway to place the order and with online payment.
+
+• Implemented user authentication using JWT, ensuring protected access for registered users.
